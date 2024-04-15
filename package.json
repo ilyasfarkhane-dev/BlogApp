@@ -4,7 +4,8 @@
   "description": "backend of blog application",
   "main": "app.js",
   "scripts": {
-    "start": "node app"
+    "start": "node app",
+    "build": "npm i"
   },
   "author": "Ilyas farkhane",
   "license": "ISC",
